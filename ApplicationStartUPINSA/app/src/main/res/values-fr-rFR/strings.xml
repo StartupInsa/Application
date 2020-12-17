@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">Accueil</string>
+    <string name="title_about">À propos</string>
+    <string name="title_achievements">Réalisations</string>
+    <string name="title_estimate">Demander un devis</string>
+    <string name="title_contact">Contact</string>
+    <string name="form_name">Nom</string>
+    <string name="form_first_name">Prénom</string>
+    <string name="form_email">Mél</string>
+    <string name="form_phone">Téléphone</string>
+    <string name="form_subject">Prestation désirée</string>
+    <string name="form_message">Description du besoin</string>
+    <string name="error">Erreur</string>
+    <string name="error_form_mail">Adresse mél invalide ou manquante</string>
+    <string name="error_form_name">Nom invalide ou manquant</string>
+    <string name="error_form_first_name">Prénom invalide ou manquant</string>
+    <string name="error_form_phone">Numéro de téléphone invalide ou manquant</string>
+    <string name="error_form_subject">Objet  invalide ou manquant</string>
+    <string name="error_form_message">Message invalide ou manquant</string>
+    <string name="form_phone_index">Indicatif téléphonique</string>
+    <string name="error_form_phone_index">Indicatif téléphonique invalide ou manquant</string>
+</resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\pamph\\AndroidStudioProjects\\ApplicationStartUPINSA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rFR\\values-fr-rFR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pamph\\AndroidStudioProjects\\ApplicationStartUPINSA\\app\\src\\main\\res\\values-fr-rFR\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,21,-1,-1,-1,-1,-1,-1,20,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,1222,-1,-1,-1,-1,-1,-1,1153,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,94,-1,-1,-1,-1,-1,-1,67,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,1312,-1,-1,-1,-1,-1,-1,1216,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,174,252,328,397,483,578,653,696,747,810,852,901,969,1029,1078,1138,1188,1249",
+                        "endColumns": "40,77,77,75,68,85,94,74,42,50,62,41,48,67,59,48,59,49,60,46",
+                        "endOffsets": "91,169,247,323,392,478,573,648,691,742,805,847,896,964,1024,1073,1133,1183,1244,1291"
+                    }
+                }
+            ]
+        }
+    ]
+}
