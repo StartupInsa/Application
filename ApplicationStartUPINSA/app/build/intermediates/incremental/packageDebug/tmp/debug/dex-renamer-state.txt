@@ -1,7 +1,7 @@
-#Tue Dec 15 10:45:23 CET 2020
-base.0=C\:\\Users\\pamph\\AndroidStudioProjects\\ApplicationStartUPINSA\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Mon Feb 08 23:10:37 CET 2021
+base.0=/home/robin/Documents/GitHub/Application/ApplicationStartUPINSA/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\pamph\\AndroidStudioProjects\\ApplicationStartUPINSA\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.1=/home/robin/Documents/GitHub/Application/ApplicationStartUPINSA/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
