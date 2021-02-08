@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">StartUP\'INSA</string>
+    <string name="title_home">Home</string>
+    <string name="title_about">A Propos</string>
+    <string name="title_achievements">Réalisations</string>
+    <string name="title_estimate">Devis</string>
+    <string name="title_contact">Contact</string>
+    <string name="about_part_1">Qui sommes-nous ?</string>
+    <string name="about_part_2">Notre école</string>
+    <string name="about_part_3">Nos services</string>
+    <string name="about_part_4">Rejoins-nous !</string>
+
+
+
+    
+    <string name="about_who_are_we_text1">texte qui sommes nous ?</string>
+
+    <string name="about_our_school_text1">"texte quelle est notre école ?"</string>
+
+    <string name="about_what_do_we_do_text1">texte Que faisons nous ?</string>
+
+    <string name="about_come_in_text1">texte Rejoins nous !</string>
+
+    
+
+
+    <string name="lorem_ipsum">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non aliquet augue. Aenean condimentum tempus ante eu pharetra. Suspendisse accumsan lacus in dolor rutrum, eu blandit tellus ultricies. Suspendisse tempor rhoncus libero. Suspendisse scelerisque blandit metus vitae euismod. Integer eget arcu tempus, consectetur lectus non, mattis quam. Quisque eu leo dictum, malesuada neque sed, molestie enim. Integer non vehicula ante. Sed a felis id metus ultrices tempor vitae a ante.
+
+Nulla commodo porta commodo. Praesent eget cursus diam. Maecenas vitae leo ipsum. Vestibulum tempus nibh eget dui auctor, id convallis urna facilisis. Sed accumsan nibh sed nunc vestibulum egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eu libero in leo ultrices egestas. Etiam ut commodo magna. Sed non mauris porttitor, pulvinar orci sit amet, posuere massa. In in ipsum ac dolor condimentum consectetur eget non tortor.
+
+Suspendisse sit amet diam tristique, mollis mauris eget, maximus magna. Pellentesque quis sagittis odio, vel cursus risus. Curabitur feugiat, enim sed scelerisque aliquam, nunc arcu cursus lacus, ut ultricies purus mi vitae augue. Donec viverra ex non orci aliquam, ut venenatis orci accumsan. Phasellus est orci, tempus id massa a, euismod accumsan tellus. Phasellus lobortis nulla ut est feugiat sodales. Nullam et augue sit amet elit rutrum egestas et vitae neque. Vestibulum fermentum nisl in diam porttitor, eget fermentum velit pharetra. Proin a fermentum lectus. Phasellus nec feugiat est. Ut maximus bibendum urna, sit amet blandit metus ornare in. Cras vel venenatis velit. Aliquam odio lorem, hendrerit id consequat quis, iaculis a ex. Maecenas vel turpis et ante posuere scelerisque eget non sem.
+
+Nullam porta porttitor enim, a tempus eros vulputate at. Sed euismod mattis erat et ultrices. Integer pretium a augue ac dapibus. Nullam at interdum sem. Nunc malesuada urna justo, eget vulputate ligula interdum sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla fringilla sed massa id elementum. Suspendisse elementum scelerisque ex, at facilisis leo. Fusce euismod vulputate felis vitae placerat. Etiam non ultricies mauris. In tincidunt venenatis neque, a posuere lectus euismod nec. Vivamus non augue hendrerit, accumsan neque consectetur, elementum libero. Ut auctor, dui ac consectetur venenatis, leo nulla lobortis lorem, vel aliquam lacus lorem vel tortor. Aenean vitae blandit risus. Nam luctus tempus pretium.
+
+Fusce a malesuada tellus. Aenean sagittis neque nec augue blandit interdum eu posuere ligula. Duis velit ante, faucibus vel malesuada in, vehicula in elit. Nulla gravida, lacus sit amet porttitor accumsan, enim justo rutrum dolor, vel fermentum purus tortor id urna. Sed eget odio lacus. Suspendisse eget risus tristique, viverra arcu sit amet, vehicula libero. Curabitur congue vel ipsum ut maximus. Maecenas velit elit, ornare in molestie ac, egestas at lorem. Donec et lectus eros. Nulla eget consequat massa. Sed semper consequat ipsum, sit amet scelerisque lectus ultrices non. Nunc aliquet velit urna, at egestas tellus condimentum id. Praesent lacinia varius elementum. Quisque quis dignissim justo, mollis accumsan dolor. Duis in est sed tellus facilisis pulvinar vitae sit amet arcu. Maecenas feugiat, purus nec ultricies volutpat, enim arcu tincidunt turpis, at commodo ipsum leo vitae ante. </string>
+</resources>

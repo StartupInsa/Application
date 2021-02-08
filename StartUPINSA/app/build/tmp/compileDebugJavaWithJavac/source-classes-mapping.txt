@@ -1,0 +1,28 @@
+com/startupinsa/app/ui/contact/ContactFragment.java
+ com.startupinsa.app.ui.contact.ContactFragment
+ com.startupinsa.app.ui.contact.ContactFragment$1
+com/startupinsa/app/ui/about/AboutFragment.java
+ com.startupinsa.app.ui.about.AboutFragment
+com/startupinsa/app/ui/contact/ContactViewModel.java
+ com.startupinsa.app.ui.contact.ContactViewModel
+com/startupinsa/app/ui/achievements/AchievementsFragment.java
+ com.startupinsa.app.ui.achievements.AchievementsFragment
+ com.startupinsa.app.ui.achievements.AchievementsFragment$1
+com/startupinsa/app/ui/home/HomeViewModel.java
+ com.startupinsa.app.ui.home.HomeViewModel
+com/startupinsa/app/ui/about/AboutViewModel.java
+ com.startupinsa.app.ui.about.AboutViewModel
+com/startupinsa/app/ui/estimate/EstimateViewModel.java
+ com.startupinsa.app.ui.estimate.EstimateViewModel
+com/startupinsa/app/MainActivity.java
+ com.startupinsa.app.MainActivity
+com/startupinsa/app/ui/estimate/EstimateFragment.java
+ com.startupinsa.app.ui.estimate.EstimateFragment
+ com.startupinsa.app.ui.estimate.EstimateFragment$1
+com/startupinsa/app/BuildConfig.java
+ com.startupinsa.app.BuildConfig
+com/startupinsa/app/ui/achievements/AchievementsViewModel.java
+ com.startupinsa.app.ui.achievements.AchievementsViewModel
+com/startupinsa/app/ui/home/HomeFragment.java
+ com.startupinsa.app.ui.home.HomeFragment
+ com.startupinsa.app.ui.home.HomeFragment$1

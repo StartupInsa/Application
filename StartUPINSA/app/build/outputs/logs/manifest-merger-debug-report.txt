@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/424e8b0c291292988309c89826d5962f/navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/3687f3b99e8403f2ac71fc13522840ff/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/robin/.gradle/caches/transforms-2/files-2.1/bd6b1c45a89fcd0f59a0d3667b9c7977/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/robin/.gradle/caches/transforms-2/files-2.1/44b21666f861b2b454523071d69d07d7/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/65c659117cfa1b903ecfdd9001c15a60/navigation-fragment-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f6a06df7c6183d8c4afcd4c2742dc8cc/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/24e82aba340b759240f09c8ab46deb1a/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/e74634e20d1ec32457b9cc4f401ffea1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/2caca0665cfc150845d481add640d717/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/robin/.gradle/caches/transforms-2/files-2.1/78be485c09b159ccd6437b5ce26410a0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9b319768499df63b1d0933a3c55ff3e7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/6a8e87f523c55e5b29d9c4a3f69e8c47/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /home/robin/.gradle/caches/transforms-2/files-2.1/84d7c05061dc856e6adb1a0f207e0abb/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/921fb1c1970f14455564b73ac43ed75b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/19ba019dbf22e650e8e95d7507462ba8/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/2439537e34da696d8ab3ce2dcd04c353/navigation-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/1c867de8727b52b88cec2ad3aed090ac/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/a5f1739a336003917307af1b7a40c6ec/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ca65e356d1c9867f9600266c00461428/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9726f16beb884e69c8392eb74d42aa95/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f9976ae113f170d60bfcc789044f411d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/b754b2dac55e2d093f3d16fae3e2b72a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/0c0f875274161c4da4a2bac9c6b269a7/navigation-common-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /home/robin/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9cf48e9fb94380d78ca9e76f4fb2a5a2/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/a5508913c832bc0c65ebd72baf7fb6d8/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/74ce12a06cb8f1a4aa7c0987c4d65d19/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f5aae5b40c62a06aacb3032b1e3e3dd6/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/d5bf5d996d4f8c184f67d9a87d8531c0/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ac846bd1991b3727d0d9b0a2719ca5c8/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/384d88a73e203b8300027f46f36e4e61/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/07966c8c4706ffeaf638d555f4c86fb0/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/41c41c2fbc05e9a19fa443c48f799c3d/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/634f2f03e50a0eb4514a8d791ceb2f13/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/3687f3b99e8403f2ac71fc13522840ff/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/3687f3b99e8403f2ac71fc13522840ff/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/robin/.gradle/caches/transforms-2/files-2.1/bd6b1c45a89fcd0f59a0d3667b9c7977/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/robin/.gradle/caches/transforms-2/files-2.1/bd6b1c45a89fcd0f59a0d3667b9c7977/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f6a06df7c6183d8c4afcd4c2742dc8cc/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f6a06df7c6183d8c4afcd4c2742dc8cc/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.3.1] /home/robin/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/robin/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/robin/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.startupinsa.app.MainActivity
+ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/424e8b0c291292988309c89826d5962f/navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/424e8b0c291292988309c89826d5962f/navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/3687f3b99e8403f2ac71fc13522840ff/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/3687f3b99e8403f2ac71fc13522840ff/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/robin/.gradle/caches/transforms-2/files-2.1/bd6b1c45a89fcd0f59a0d3667b9c7977/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/robin/.gradle/caches/transforms-2/files-2.1/bd6b1c45a89fcd0f59a0d3667b9c7977/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/robin/.gradle/caches/transforms-2/files-2.1/44b21666f861b2b454523071d69d07d7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/robin/.gradle/caches/transforms-2/files-2.1/44b21666f861b2b454523071d69d07d7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/65c659117cfa1b903ecfdd9001c15a60/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/65c659117cfa1b903ecfdd9001c15a60/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f6a06df7c6183d8c4afcd4c2742dc8cc/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f6a06df7c6183d8c4afcd4c2742dc8cc/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/24e82aba340b759240f09c8ab46deb1a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/24e82aba340b759240f09c8ab46deb1a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/e74634e20d1ec32457b9cc4f401ffea1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/e74634e20d1ec32457b9cc4f401ffea1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/2caca0665cfc150845d481add640d717/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/2caca0665cfc150845d481add640d717/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/robin/.gradle/caches/transforms-2/files-2.1/78be485c09b159ccd6437b5ce26410a0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/robin/.gradle/caches/transforms-2/files-2.1/78be485c09b159ccd6437b5ce26410a0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9b319768499df63b1d0933a3c55ff3e7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9b319768499df63b1d0933a3c55ff3e7/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/6a8e87f523c55e5b29d9c4a3f69e8c47/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/6a8e87f523c55e5b29d9c4a3f69e8c47/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/robin/.gradle/caches/transforms-2/files-2.1/84d7c05061dc856e6adb1a0f207e0abb/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /home/robin/.gradle/caches/transforms-2/files-2.1/84d7c05061dc856e6adb1a0f207e0abb/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/921fb1c1970f14455564b73ac43ed75b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/921fb1c1970f14455564b73ac43ed75b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/19ba019dbf22e650e8e95d7507462ba8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/19ba019dbf22e650e8e95d7507462ba8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/2439537e34da696d8ab3ce2dcd04c353/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/2439537e34da696d8ab3ce2dcd04c353/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/1c867de8727b52b88cec2ad3aed090ac/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/1c867de8727b52b88cec2ad3aed090ac/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9d3d448a3878af78f8d5e2175d6f4332/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/a5f1739a336003917307af1b7a40c6ec/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/a5f1739a336003917307af1b7a40c6ec/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ca65e356d1c9867f9600266c00461428/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ca65e356d1c9867f9600266c00461428/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9726f16beb884e69c8392eb74d42aa95/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9726f16beb884e69c8392eb74d42aa95/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/4d3225ea5d57f620bf5356e2a6f066d6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f9976ae113f170d60bfcc789044f411d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f9976ae113f170d60bfcc789044f411d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/b754b2dac55e2d093f3d16fae3e2b72a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/b754b2dac55e2d093f3d16fae3e2b72a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/0c0f875274161c4da4a2bac9c6b269a7/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/0c0f875274161c4da4a2bac9c6b269a7/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/robin/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/robin/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9cf48e9fb94380d78ca9e76f4fb2a5a2/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/9cf48e9fb94380d78ca9e76f4fb2a5a2/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/a5508913c832bc0c65ebd72baf7fb6d8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/a5508913c832bc0c65ebd72baf7fb6d8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/74ce12a06cb8f1a4aa7c0987c4d65d19/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/74ce12a06cb8f1a4aa7c0987c4d65d19/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f5aae5b40c62a06aacb3032b1e3e3dd6/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/f5aae5b40c62a06aacb3032b1e3e3dd6/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/d5bf5d996d4f8c184f67d9a87d8531c0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/d5bf5d996d4f8c184f67d9a87d8531c0/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ac846bd1991b3727d0d9b0a2719ca5c8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ac846bd1991b3727d0d9b0a2719ca5c8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/384d88a73e203b8300027f46f36e4e61/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/384d88a73e203b8300027f46f36e4e61/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/07966c8c4706ffeaf638d555f4c86fb0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/07966c8c4706ffeaf638d555f4c86fb0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/41c41c2fbc05e9a19fa443c48f799c3d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/41c41c2fbc05e9a19fa443c48f799c3d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/634f2f03e50a0eb4514a8d791ceb2f13/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/robin/.gradle/caches/transforms-2/files-2.1/634f2f03e50a0eb4514a8d791ceb2f13/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+		ADDED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/robin/Documents/GitHub/Application/StartUPINSA/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/robin/.gradle/caches/transforms-2/files-2.1/ed31c0cbd881c468168107c1d4ee89e6/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
