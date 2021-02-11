@@ -24,14 +24,14 @@
         tools:layout="@layout/fragment_achievements" />
 
     <fragment
-        android:id="@+id/navigation_estimate"
-        android:name="com.startupinsa.app.ui.estimate.EstimateFragment"
-        android:label="@string/title_estimate"
-        tools:layout="@layout/fragment_estimate" />
+        android:id="@+id/navigation_form"
+        android:name="com.startupinsa.app.ui.form.FormFragment"
+        android:label="@string/title_form"
+        tools:layout="@layout/fragment_form" />
 
     <fragment
-    android:id="@+id/navigation_contact"
-    android:name="com.startupinsa.app.ui.contact.ContactFragment"
-    android:label="@string/title_contact"
-    tools:layout="@layout/fragment_contact" />
+        android:id="@+id/navigation_contact"
+        android:name="com.startupinsa.app.ui.contact.ContactFragment"
+        android:label="@string/title_contact"
+        tools:layout="@layout/fragment_contact" />
 </navigation>

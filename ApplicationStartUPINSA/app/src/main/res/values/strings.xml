@@ -3,12 +3,12 @@
     <string name="title_home">Home</string>
     <string name="title_about">About</string>
     <string name="title_achievements">Achievements</string>
-    <string name="title_estimate">Ask for an estimate</string>
+    <string name="title_form">Contact form</string>
     <string name="title_contact">Contact</string>
     <string name="error">Error</string>
 
-    <!-- Strings related to estimate -->
-    <string name="form_name">prout</string>
+    <!-- Strings related to form -->
+    <string name="form_name">Name</string>
     <string name="form_first_name">First name</string>
     <string name="form_email">Email</string>
     <string name="form_phone_index">Phone index</string>
@@ -22,6 +22,16 @@
     <string name="error_form_phone">Invalid or missing phone number</string>
     <string name="error_form_subject">Invalid or missing subject</string>
     <string name="error_form_message">Invalid or missing message</string>
+    <string name="estimate">Estimate</string>
+    <string name="join">Join us</string>
+    <string name="partnership">Partnership</string>
+    <string name="other">Other</string>
+    <string-array name="subject_spinner">
+        <item>@string/estimate</item>
+        <item>@string/join</item>
+        <item>@string/partnership</item>
+        <item>@string/other</item>
+    </string-array>
 
 
 </resources>

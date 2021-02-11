@@ -3,7 +3,7 @@
     <string name="title_home">Accueil</string>
     <string name="title_about">À propos</string>
     <string name="title_achievements">Réalisations</string>
-    <string name="title_estimate">Demander un devis</string>
+    <string name="title_form">Formulaire de contact</string>
     <string name="title_contact">Contact</string>
     <string name="form_name">Nom</string>
     <string name="form_first_name">Prénom</string>
@@ -20,4 +20,8 @@
     <string name="error_form_message">Message invalide ou manquant</string>
     <string name="form_phone_index">Indicatif téléphonique</string>
     <string name="error_form_phone_index">Indicatif téléphonique invalide ou manquant</string>
+    <string name="estimate">Devis</string>
+    <string name="join">Nous rejoindre</string>
+    <string name="partnership">Partenariat</string>
+    <string name="other">Autre</string>
 </resources>

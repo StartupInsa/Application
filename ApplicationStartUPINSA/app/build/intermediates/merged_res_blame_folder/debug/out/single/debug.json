@@ -8,12 +8,12 @@
         "source": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
@@ -34,10 +34,6 @@
     {
         "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_round_error_24.xml.flat",
         "source": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\src\\main\\res\\drawable\\ic_round_error_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_estimate.xml.flat",
-        "source": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\src\\main\\res\\layout\\fragment_estimate.xml"
     },
     {
         "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
@@ -62,6 +58,10 @@
     {
         "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_form.xml.flat",
+        "source": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\src\\main\\res\\layout\\fragment_form.xml"
     },
     {
         "merged": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",

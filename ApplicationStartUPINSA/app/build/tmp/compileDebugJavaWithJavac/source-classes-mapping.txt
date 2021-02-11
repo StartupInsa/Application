@@ -1,6 +1,15 @@
 com/startupinsa/app/ui/contact/ContactFragment.java
  com.startupinsa.app.ui.contact.ContactFragment
  com.startupinsa.app.ui.contact.ContactFragment$1
+com/startupinsa/app/ui/form/FormFragment.java
+ com.startupinsa.app.ui.form.FormFragment
+ com.startupinsa.app.ui.form.FormFragment$1
+ com.startupinsa.app.ui.form.FormFragment$2
+ com.startupinsa.app.ui.form.FormFragment$3
+ com.startupinsa.app.ui.form.FormFragment$4
+ com.startupinsa.app.ui.form.FormFragment$5
+ com.startupinsa.app.ui.form.FormFragment$6
+ com.startupinsa.app.ui.form.FormFragment$7
 com/startupinsa/app/ui/contact/ContactViewModel.java
  com.startupinsa.app.ui.contact.ContactViewModel
 com/startupinsa/app/data/Result.java
@@ -8,15 +17,6 @@ com/startupinsa/app/data/Result.java
  com.startupinsa.app.data.Result$1
  com.startupinsa.app.data.Result$Error
  com.startupinsa.app.data.Result$Success
-com/startupinsa/app/ui/estimate/EstimateFragment.java
- com.startupinsa.app.ui.estimate.EstimateFragment
- com.startupinsa.app.ui.estimate.EstimateFragment$1
- com.startupinsa.app.ui.estimate.EstimateFragment$2
- com.startupinsa.app.ui.estimate.EstimateFragment$3
- com.startupinsa.app.ui.estimate.EstimateFragment$4
- com.startupinsa.app.ui.estimate.EstimateFragment$5
- com.startupinsa.app.ui.estimate.EstimateFragment$6
- com.startupinsa.app.ui.estimate.EstimateFragment$7
 com/startupinsa/app/data/LoginDataSource.java
  com.startupinsa.app.data.LoginDataSource
 com/startupinsa/app/BuildConfig.java
@@ -39,7 +39,7 @@ com/startupinsa/app/MainActivity.java
  com.startupinsa.app.MainActivity
 com/startupinsa/app/ui/about/AboutViewModel.java
  com.startupinsa.app.ui.about.AboutViewModel
-com/startupinsa/app/ui/estimate/EstimateViewModel.java
- com.startupinsa.app.ui.estimate.EstimateViewModel
 com/startupinsa/app/data/model/LoggedInUser.java
  com.startupinsa.app.data.model.LoggedInUser
+com/startupinsa/app/ui/form/FormViewModel.java
+ com.startupinsa.app.ui.form.FormViewModel

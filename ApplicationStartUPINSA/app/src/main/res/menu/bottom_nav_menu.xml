@@ -17,9 +17,9 @@
         android:title="@string/title_achievements" />
 
     <item
-        android:id="@+id/navigation_estimate"
+        android:id="@+id/navigation_form"
         android:icon="@drawable/ic_assignment_black_18dp"
-        android:title="@string/title_estimate" />
+        android:title="@string/title_form" />
 
     <item
         android:id="@+id/navigation_contact"

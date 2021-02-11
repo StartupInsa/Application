@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.form.FormFragment">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_05"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.05"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_95"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.95"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_49"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.49"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.51"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.32"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.34"/>
+
+
+    <EditText
+        android:id="@+id/formName"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:autofillHints="AUTOFILL_HINT_PERSON_NAME_FAMILY"
+        android:hint="@string/form_name"
+        android:inputType="text"
+        android:text=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_49"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent=".08"
+        app:layout_constraintStart_toStartOf="@+id/guideline_05"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.03" />
+
+    <ImageButton
+        android:id="@+id/formNameError"
+        android:layout_width="56dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/error"
+        android:cropToPadding="false"
+        android:padding="10dp"
+        android:src="@drawable/ic_round_error_24"
+        android:background="@null"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formName"
+        app:layout_constraintEnd_toEndOf="@+id/formName"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/formName"
+        app:layout_constraintTop_toTopOf="@+id/formName" />
+
+    <TextView
+        android:id="@+id/formNameErrorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF1F1F"
+        android:clickable="false"
+        android:text="@string/error_form_name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formEmail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/formFirstName" />
+
+    <EditText
+        android:id="@+id/formFirstName"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:autofillHints="AUTOFILL_HINT_PERSON_NAME_GIVEN"
+        android:hint="@string/form_first_name"
+        android:inputType="text"
+        android:text=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_95"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent=".08"
+        app:layout_constraintStart_toStartOf="@+id/guideline_51"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.03" />
+
+    <ImageButton
+        android:id="@+id/formFirstNameError"
+        android:layout_width="56dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/error"
+        android:cropToPadding="false"
+        android:padding="10dp"
+        android:src="@drawable/ic_round_error_24"
+        android:background="@null"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formFirstName"
+        app:layout_constraintEnd_toEndOf="@+id/formFirstName"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/formFirstName"
+        app:layout_constraintTop_toTopOf="@+id/formFirstName" />
+
+    <TextView
+        android:id="@+id/formFirstNameErrorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF1F1F"
+        android:clickable="false"
+        android:text="@string/error_form_first_name"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formEmail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/formFirstName" />
+
+    <EditText
+        android:id="@+id/formEmail"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:autofillHints="AUTOFILL_HINT_EMAIL_ADDRESS"
+        android:hint="@string/form_email"
+        android:inputType="textEmailAddress"
+        android:text=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_95"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent=".08"
+        app:layout_constraintStart_toStartOf="@+id/guideline_05"
+        app:layout_constraintTop_toBottomOf="@+id/formFirstName"
+        app:layout_constraintVertical_bias="0" />
+
+    <ImageButton
+        android:id="@+id/formEmailError"
+        android:layout_width="56dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/error"
+        android:cropToPadding="false"
+        android:padding="10dp"
+        android:src="@drawable/ic_round_error_24"
+        android:background="@null"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formEmail"
+        app:layout_constraintEnd_toEndOf="@+id/formEmail"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/formEmail"
+        app:layout_constraintTop_toTopOf="@+id/formEmail" />
+
+    <TextView
+        android:id="@+id/formEmailErrorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF1F1F"
+        android:clickable="false"
+        android:text="@string/error_form_mail"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formEmail"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/formFirstName" />
+
+    <EditText
+        android:id="@+id/formPhoneIndex"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:autofillHints="AUTOFILL_HINT_PHONE_COUNTRY_CODE"
+        android:hint="@string/form_phone_index"
+        android:inputType="phone"
+        android:text=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_32"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent=".08"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/guideline_05"
+        app:layout_constraintTop_toBottomOf="@+id/formEmail"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageButton
+        android:id="@+id/formPhoneIndexError"
+        android:layout_width="56dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/error"
+        android:cropToPadding="false"
+        android:padding="10dp"
+        android:src="@drawable/ic_round_error_24"
+        android:background="@null"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formPhoneIndex"
+        app:layout_constraintEnd_toEndOf="@+id/formPhoneIndex"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/formPhoneIndex"
+        app:layout_constraintTop_toTopOf="@+id/formPhoneIndex" />
+
+    <TextView
+        android:id="@+id/formPhoneIndexErrorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF1F1F"
+        android:clickable="false"
+        android:text="@string/error_form_phone_index"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formPhone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/formEmail" />
+
+    <EditText
+        android:id="@+id/formPhone"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:autofillHints="AUTOFILL_HINT_PHONE_NATIONAL"
+        android:hint="@string/form_phone"
+        android:inputType="phone"
+        android:text=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_95"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent=".08"
+        app:layout_constraintStart_toStartOf="@+id/guideline_34"
+        app:layout_constraintTop_toBottomOf="@+id/formEmail"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageButton
+        android:id="@+id/formPhoneError"
+        android:layout_width="56dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/error"
+        android:cropToPadding="false"
+        android:padding="10dp"
+        android:src="@drawable/ic_round_error_24"
+        android:background="@null"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formPhone"
+        app:layout_constraintEnd_toEndOf="@+id/formPhone"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/formPhone"
+        app:layout_constraintTop_toTopOf="@+id/formPhone" />
+
+    <TextView
+        android:id="@+id/formPhoneErrorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF1F1F"
+        android:clickable="false"
+        android:text="@string/error_form_phone"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formPhone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/formEmail" />
+
+    <Spinner
+        android:id="@+id/formSubjectSpinner"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_95"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent=".08"
+        app:layout_constraintStart_toStartOf="@+id/guideline_05"
+        app:layout_constraintTop_toBottomOf="@+id/formPhone"
+        app:layout_constraintVertical_bias="0"
+        />
+
+    <EditText
+        android:id="@+id/formSubject"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:autofillHints=""
+        android:hint="@string/form_subject"
+        android:inputType="text"
+        android:text=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_95"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent=".08"
+        app:layout_constraintStart_toStartOf="@+id/guideline_05"
+        app:layout_constraintTop_toBottomOf="@+id/formSubjectSpinner"
+        app:layout_constraintVertical_bias="0"
+        />
+
+    <ImageButton
+        android:id="@+id/formSubjectError"
+        android:layout_width="56dp"
+        android:layout_height="0dp"
+        android:contentDescription="@string/error"
+        android:cropToPadding="false"
+        android:padding="10dp"
+        android:src="@drawable/ic_round_error_24"
+        android:background="@null"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formSubject"
+        app:layout_constraintEnd_toEndOf="@+id/formSubject"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/formSubject"
+        app:layout_constraintTop_toTopOf="@+id/formSubject" />
+
+    <TextView
+        android:id="@+id/formSubjectErrorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF1F1F"
+        android:clickable="false"
+        android:text="@string/error_form_subject"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formSubject"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/formPhone" />
+
+    <EditText
+        android:id="@+id/formMessage"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:autofillHints=""
+        android:background="#25BB86FC"
+        android:gravity="top"
+        android:hint="@string/form_message"
+        android:inputType="textCapSentences|textMultiLine"
+        android:singleLine="false"
+        android:text=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_95"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent=".33"
+        app:layout_constraintStart_toStartOf="@+id/guideline_05"
+        app:layout_constraintTop_toBottomOf="@+id/formSubject"
+        app:layout_constraintVertical_bias="0" />
+
+    <ImageButton
+        android:id="@+id/formMessageError"
+        android:layout_width="56dp"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/error"
+        android:cropToPadding="false"
+        android:foregroundGravity="center"
+        android:padding="10dp"
+        android:src="@drawable/ic_round_error_24"
+        android:background="@null"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formMessage"
+        app:layout_constraintEnd_toEndOf="@+id/formMessage"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/formMessage"
+        app:layout_constraintTop_toTopOf="@+id/formMessage"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/formMessageErrorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FF1F1F"
+        android:clickable="false"
+        android:text="@string/error_form_message"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/formMessage"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/formSubject"
+        app:layout_constraintVertical_bias="0.1" />
+
+    <Button
+        android:id="@+id/formButtonSend"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/title_form"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_95"
+        app:layout_constraintHeight_default="percent"
+        app:layout_constraintHeight_percent=".1"
+        app:layout_constraintStart_toStartOf="@+id/guideline_05"
+        app:layout_constraintTop_toBottomOf="@+id/formMessage"
+        app:layout_constraintWidth_default="percent"
+        app:layout_constraintWidth_percent=".6" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
