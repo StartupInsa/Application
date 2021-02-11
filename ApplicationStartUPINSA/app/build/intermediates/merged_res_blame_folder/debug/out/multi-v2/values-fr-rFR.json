@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/home/robin/Documents/GitHub/Application/ApplicationStartUPINSA/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rFR/values-fr-rFR.xml",
+            "outputFile": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rFR\\values-fr-rFR.xml",
             "map": [
                 {
-                    "source": "/home/robin/Documents/GitHub/Application/ApplicationStartUPINSA/app/src/main/res/values-fr-rFR/strings.xml",
+                    "source": "C:\\Users\\pamph\\Documents\\GitHub\\Application\\ApplicationStartUPINSA\\app\\src\\main\\res\\values-fr-rFR\\strings.xml",
                     "from": {
                         "startLines": "13,16,14,19,15,17,21,18,9,8,12,7,10,20,11,3,4,6,5,2",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "630,818,671,1057,749,896,1201,982,415,364,567,322,458,1133,507,102,151,272,211,55",
+                        "startOffsets": "643,834,685,1076,764,913,1222,1000,424,372,579,329,468,1153,518,105,155,278,216,57",
                         "endColumns": "40,77,77,75,68,85,94,74,42,50,62,41,48,67,59,48,59,49,60,46",
-                        "endOffsets": "666,891,744,1128,813,977,1291,1052,453,410,625,359,502,1196,562,146,206,317,267,97"
+                        "endOffsets": "679,907,758,1147,828,994,1312,1070,462,418,637,366,512,1216,573,149,210,323,272,99"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
