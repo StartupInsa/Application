@@ -1013,7 +1013,7 @@
     <string name="form_email">Email</string>
     <string name="form_first_name">First name</string>
     <string name="form_message">Requirement description</string>
-    <string name="form_name">Name</string>
+    <string name="form_name">prout</string>
     <string name="form_phone">Phone</string>
     <string name="form_phone_index">Phone index</string>
     <string name="form_subject">"Wanted service"</string>

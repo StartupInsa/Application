@@ -35,11 +35,11 @@ com/startupinsa/app/ui/achievements/AchievementsFragment.java
  com.startupinsa.app.ui.achievements.AchievementsFragment
 com/startupinsa/app/ui/home/HomeViewModel.java
  com.startupinsa.app.ui.home.HomeViewModel
+com/startupinsa/app/MainActivity.java
+ com.startupinsa.app.MainActivity
 com/startupinsa/app/ui/about/AboutViewModel.java
  com.startupinsa.app.ui.about.AboutViewModel
 com/startupinsa/app/ui/estimate/EstimateViewModel.java
  com.startupinsa.app.ui.estimate.EstimateViewModel
-com/startupinsa/app/MainActivity.java
- com.startupinsa.app.MainActivity
 com/startupinsa/app/data/model/LoggedInUser.java
  com.startupinsa.app.data.model.LoggedInUser
