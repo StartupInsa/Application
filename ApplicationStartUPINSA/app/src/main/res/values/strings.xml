@@ -8,7 +8,7 @@
     <string name="error">Error</string>
 
     <!-- Strings related to estimate -->
-    <string name="form_name">Name</string>
+    <string name="form_name">prout</string>
     <string name="form_first_name">First name</string>
     <string name="form_email">Email</string>
     <string name="form_phone_index">Phone index</string>
